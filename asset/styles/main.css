@@ -114,3 +114,8 @@ body {
   margin-top: 20px;
   cursor: pointer;
 }
+
+.content-box button:hover{
+  background-color: #004793;
+
+}
